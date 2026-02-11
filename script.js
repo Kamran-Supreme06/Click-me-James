@@ -59,7 +59,7 @@ yesBtn.addEventListener("click", () => {
       flex-direction:column;
       justify-content:center;
       align-items:center;
-      background:linear-gradient(135deg,#ff5f9e,#ffd6e8);
+      background:linear-gradient(135deg,#1e3c72,#2a5298);
       color:white;
       text-align:center;
       padding:20px;
@@ -74,6 +74,7 @@ yesBtn.addEventListener("click", () => {
     </div>
   `;
 });
+
 
 
 
