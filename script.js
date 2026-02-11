@@ -33,7 +33,7 @@ const noTexts = [
   "You don’t want to click me 😭",
   "Think again 😳",
   "Okay but… why 😩"
-  "That's not fair 😩"
+ 
 ];
 
 noBtn.addEventListener("click", () => {
@@ -74,6 +74,7 @@ yesBtn.addEventListener("click", () => {
     </div>
   `;
 });
+
 
 
 
