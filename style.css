@@ -4,14 +4,13 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
   }
-  body {
-    height: 100vh;
-    background: linear-gradient(-45deg, #ff5f9e, #ff8ccf, #ffc1e3, #ffd6e8);
-    background-size: 400% 400%;
-    animation: gradientBG 15s ease infinite;
-    overflow: hidden;
-  }
-  
+body {
+  height: 100vh;
+  background: linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #4facfe);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+  overflow: hidden;
+}
   
   @keyframes gradientBG {
     0% { background-position: 0% 50%; }
@@ -189,6 +188,7 @@
     margin-right: auto;
   }
 }
+
 
 
 
