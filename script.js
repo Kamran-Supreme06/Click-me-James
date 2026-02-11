@@ -33,6 +33,7 @@ const noTexts = [
   "You don’t want to click me 😭",
   "Think again 😳",
   "Okay but… why 😩"
+  "That's not fair 😩"
 ];
 
 noBtn.addEventListener("click", () => {
@@ -67,12 +68,13 @@ yesBtn.addEventListener("click", () => {
       <img src="teddy.gif" alt="Teddy Bear Love" style="width:180px;">
 
       <h1>YAYYY 💖🎉</h1>
-      <h2>You just made me the happiest man ever 😌</h2>
+      <h2>You just made me the happiest girl in the world 😌</h2>
       <h2>I can't wait to spend Valentine’s Day with you my love 💕</h2>
 
     </div>
   `;
 });
+
 
 
 
