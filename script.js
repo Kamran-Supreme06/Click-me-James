@@ -28,11 +28,11 @@ const yesBtn = document.getElementById("yesBtn");
 let noClickCount = 0;
 
 const noTexts = [
-  "Are you sure? 🥺",
-  "That would make me sad 💔",
-  "You don’t want to click me 😭",
-  "Think again 😳",
-  "Okay but… why 😩"
+  "Is jy seker?🥺",
+  "Moenie my hartseer maak nie💔",
+  "Jy wil nie rerig nee sȇ nie😭",
+  "Okay maar hoekom nie?😩",
+  "Jy't nie eintlik 'n keuse nie😘"
  
 ];
 
@@ -67,13 +67,14 @@ yesBtn.addEventListener("click", () => {
 
       <img src="teddy.gif" alt="Teddy Bear Love" style="width:180px;">
 
-      <h1>YAYYY 💖🎉</h1>
-      <h2>You just made me the happiest girl in the world 😌</h2>
-      <h2>I can't wait to spend Valentine’s Day with you my love 💕</h2>
+      <h1>YAYYY🥰💖🎉!!!</h1>
+      <h2>Jy't my sopas die gelukkigste meisie in die wȇreld gemaak🥹😍</h2>
+      <h2>Ek kan nie wag om die dag saam met jou te spandeer nie!😘💕</h2>
 
     </div>
   `;
 });
+
 
 
 
