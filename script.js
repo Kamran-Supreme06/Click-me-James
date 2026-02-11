@@ -30,7 +30,7 @@ let noClickCount = 0;
 const noTexts = [
   "Is jy seker?🥺",
   "Moenie my hartseer maak nie💔",
-  "Jy wil nie rerig nee sȇ nie😭",
+  "Jy wil nie rerig nee se nie😭",
   "Okay maar hoekom nie?😩",
   "Jy't nie eintlik 'n keuse nie😘"
  
@@ -68,12 +68,13 @@ yesBtn.addEventListener("click", () => {
       <img src="teddy.gif" alt="Teddy Bear Love" style="width:180px;">
 
       <h1>YAYYY🥰💖🎉!!!</h1>
-      <h2>Jy't my sopas die gelukkigste meisie in die wȇreld gemaak🥹😍</h2>
+      <h2>Jy't my sopas die gelukkigste meisie in die wereld gemaak🥹😍</h2>
       <h2>Ek kan nie wag om die dag saam met jou te spandeer nie!😘💕</h2>
 
     </div>
   `;
 });
+
 
 
 
